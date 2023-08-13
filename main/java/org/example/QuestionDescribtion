@@ -1,8 +1,0 @@
-1. you are given a string str 
-2. you have to find smallest window length that contains all unique characters of the given string
-
-SAMPLE INPUT-
-aabcbcdbca
-
-SAMPLE OUTPUT-
-4

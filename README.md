@@ -24,3 +24,15 @@ aabcbcdbca
 SAMPLE OUTPUT-
 24
 
+Question 3- Longest Substring With Exactly K Unique Characters
+Description-
+You are given a string(str) and a number K.
+You have to find length of the longest substring that has exactly k unique characters.
+If no such substring exists, print "-1".
+
+SAMPLE INPUT-
+aabcbcdbca
+2
+
+SAMPLE OUTPUT-
+4

@@ -49,3 +49,17 @@ aabcbcdbca
 
 SAMPLE OUTPUT-
 12
+
+Question 5 - Equivalent Subarray
+Description-
+You are given an array of integers(arr).
+You have to find the count of equivalent subarrays.
+A subarray is equivalent if,
+count of unique integers in the subarray = count of unique integers in the given array.
+
+SAMPLE INPUT-
+2,1,3,2,3
+
+SAMPLE OUTPUT-
+5
+

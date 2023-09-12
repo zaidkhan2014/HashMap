@@ -63,3 +63,15 @@ SAMPLE INPUT-
 SAMPLE OUTPUT-
 5
 
+Question 6- Longest Substring with at most K unique Characters
+Description-
+you are given a string(str) and a number K
+you have to find the length of longest substring of the given string that contains at most K unique characters
+
+SAMPLE INPUT-
+abcdee
+2
+
+SAMPLE OUTPUT-
+3
+

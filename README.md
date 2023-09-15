@@ -75,3 +75,15 @@ abcdee
 SAMPLE OUTPUT-
 3
 
+Question 7- Count of Substring with at-most k Distinct characters
+Description-
+You are given a string(str) and a number K.
+You have to find the count of substrings of the given string that contains at most K unique characters.
+
+SAMPLE INPUT-
+aabcbcdbca
+2
+
+SAMPLE OUTPUT-
+23
+
